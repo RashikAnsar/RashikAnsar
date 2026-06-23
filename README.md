@@ -32,4 +32,4 @@ I write about some of this over on [rashik.dev](https://rashik.dev).
 - 🌐&nbsp; [rashik.dev](https://rashik.dev)
 - 💼&nbsp; [LinkedIn](https://linkedin.com/in/RashikAnsar)
 - 🐦&nbsp; [X](https://x.com/Rashik_ansar)
-- ✉️&nbsp; sk.ansar46@gmail.com
+- ✉️&nbsp; [mail](mailto:sk.ansar46@gmail.com)
